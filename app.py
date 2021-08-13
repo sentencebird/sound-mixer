@@ -3,7 +3,6 @@ import io
 import librosa
 from scipy.io import wavfile
 from pydub import AudioSegment
-import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import numpy as np
 
